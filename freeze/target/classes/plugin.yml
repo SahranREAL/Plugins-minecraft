@@ -1,8 +1,0 @@
-name: freeze
-version: 1.0.0
-author: sahran
-main: ovh.foxping.sahran.Main
-commands:
-  freeze:
-    description: "Freeze une personne"
-    usage: "/freeze <player>"
