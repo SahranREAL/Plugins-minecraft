@@ -75,7 +75,7 @@ public class Main extends JavaPlugin implements Listener, CommandExecutor {
                     target.teleport(lastLocation);
                 }
             }
-        }, 0L, 20L);
+        }, 0L, 1L);
     }
 
     private void stopFreezeTask() {
@@ -86,3 +86,4 @@ public class Main extends JavaPlugin implements Listener, CommandExecutor {
         }
     }
 }
+
